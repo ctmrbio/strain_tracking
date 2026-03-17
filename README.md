@@ -1,2 +1,2 @@
 # strain_tracking
-Code for pregnancy and mother-infact strain tracking project
+Statistical analysis code for pregnancy and mother-infant strain tracking project
